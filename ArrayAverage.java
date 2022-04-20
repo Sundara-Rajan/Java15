@@ -17,3 +17,5 @@ class ArrayAverage
 
 
 https://tests.mettl.com/authenticateKey/2p5hlbgidd
+
+https://www.hackerrank.com/tests/4ckgrl6008g/login?b=eyJ1c2VybmFtZSI6InN1bmR1MTA0ZWNlQGdtYWlsLmNvbSIsInBhc3N3b3JkIjoiZDk3MDkxMzQiLCJoaWRlIjp0cnVlLCJhY2NvbW1vZGF0aW9ucyI6eyJhZGRpdGlvbmFsX3RpbWVfcGVyY2VudCI6MH19
